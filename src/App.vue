@@ -1,28 +1,29 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <q-layout view="lHh Lpr lFf">
+    <Header @toogle-left-sidebar="left = !left"/>
+    <SideBar :active="left"/>
+    <q-page-container>
+
+    </q-page-container>
+  </q-layout>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
+<script lang="ts">
+import { Vue, Component } from "vue-property-decorator"
+import Header from './components/Layout/header.vue'
+import SideBar from './components/Layout/sideBar.vue'
 
-export default {
-  name: 'App',
-  components: {
-    HelloWorld
+@Component({
+  components:{
+    Header,
+    SideBar
   }
+})
+
+export default class App extends Vue{
+  left: boolean = true
 }
 </script>
 
 <style>
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
 </style>
