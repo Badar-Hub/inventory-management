@@ -11,7 +11,7 @@
     </div>
     <div class="q-mt-lg">
         <q-list v-for="(navitem, index) in navItems" :key="index" v-on="navitem">
-            <q-item clickable tag="a" :href="`/#${navitem.path}`">
+            <q-item clickable tag="a" class="font-semi-bold font-size-large" :href="`/#${navitem.path}`">
             <q-item-section avatar>
                 <q-icon name="school" />
             </q-item-section>
