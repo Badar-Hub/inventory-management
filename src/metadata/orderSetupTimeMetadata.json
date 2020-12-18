@@ -1,0 +1,11 @@
+{
+  "enterTime": {
+    "label": "Enter Time (Minutes)"
+  },
+  "toGoFulfillment": {
+    "label": "Select To Go Fulfillment"
+  },
+  "categoryFulfillment": {
+    "label": "Select Category Fulfillment"
+  }
+}

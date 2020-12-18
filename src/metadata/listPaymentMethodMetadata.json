@@ -1,0 +1,15 @@
+{
+  "name": {
+    "label": "Payment Methods",
+    "tooltip": ""
+  },
+  "addPaymentMethodButton": {
+    "label": "Add Payment Method",
+    "tooltip": ""
+  },
+  "deleteDialog": {
+    "content": "Are you sure you want to delete this payment method?",
+    "title": "Warning!",
+    "primaryLabel": "Delete"
+  }
+}

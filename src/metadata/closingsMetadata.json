@@ -1,0 +1,91 @@
+{
+  "header": {
+    "title": {
+      "label": "Closings"
+    },
+    "addBtn": {
+      "label": "Add Closing"
+    }
+  },
+  "dialog": {
+    "createHeader": {
+      "label": "Add Closing"
+    },
+    "updateHeader": {
+      "label": "Update Closing"
+    }
+  },
+  "deleteDialog": {
+    "content": "Are you sure you want to delete this closing?",
+    "title": "Warning!",
+    "primaryLabel": "Delete"
+  },
+  "name": {
+    "label": "Name",
+    "tooltip": "This is the restaurant closing's name"
+  },
+  "closingDate": {
+    "label": "Select Closing Date",
+    "tooltip": "",
+    "mask": "##/##/####"
+  },
+  "closingTime": {
+    "label": "Enter Closing Time",
+    "tooltip": ""
+  },
+  "closingDateTime": {
+    "label": "Closing Date & Time",
+    "tooltip": ""
+  },
+  "resumeNormalDateTime": {
+    "label": "Resume Normal Operating Hours Date & Time",
+    "tooltip": ""
+  },
+  "resumeDate": { "label": "Select Resume Date", "tooltip": "" },
+  "resumeTime": {
+    "label": "Enter Resume Time",
+    "tooltip": ""
+  },
+  "fulfillmentType": {
+    "label": "Fulfillment Type",
+    "tooltip": ""
+  },
+  "togoFulfillment": { "label": "To Go Fulfillment", "tooltip": "" },
+  "cateringFulfillment": {
+    "label": "Catering Fulfillment",
+    "tooltip": ""
+  },
+  "addRestaurantsClosings": {
+    "label": "Add Closing To Restaurants",
+    "tooltip": ""
+  },
+  "searchSelectRestaurant": {
+    "label": "Search & Select Restaurant(s)",
+    "tooltip": ""
+  },
+  "addClosingBtn": {
+    "label": "Add Closing",
+    "tooltip": ""
+  },
+  "editClosingBtn": {
+    "label": "Edit Closing",
+    "tooltip": ""
+  },
+  "updateClosingBtn": {
+    "label": "Update Closing",
+    "tooltip": ""
+  },
+  "closeModelBtn": {
+    "label": "Close",
+    "tooltip": ""
+  },
+  "emptySelectError": {
+    "label": "Please select an option",
+    "tooltip": ""
+  },
+  "updateSuccessMsg": "Restaurant closing updated successfully",
+  "createSuccessMsg": "Restaurant closing created successfully",
+  "deleteSuccessMsg": "Restaurant closing deleted successfully",
+  "createErrMsg": "Error in creating Restaurant closing",
+  "invalidResumeDate": "Resume date must be after closing date"
+}

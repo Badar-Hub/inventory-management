@@ -1,0 +1,16 @@
+{
+  "header": {
+    "title": "Filters"
+  },
+  "inputLabel": {
+    "valueLabel": "Value",
+    "operator": "Operator",
+    "filter": "Filter"
+  },
+  "buttonLable": {
+    "addFilterLabel": "Add Filter",
+    "clearAllLabel": "Clear All",
+    "apply": "Apply",
+    "removeLabel": "Remove"
+  }
+}

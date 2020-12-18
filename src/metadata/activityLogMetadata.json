@@ -1,0 +1,14 @@
+{
+  "name": {
+    "label": "Activity Log"
+  },
+  "loadMoreBtn": {
+    "label": "Load More"
+  },
+  "showText": {
+    "label": "Show"
+  },
+  "hideText": {
+    "label": "Hide"
+  }
+}

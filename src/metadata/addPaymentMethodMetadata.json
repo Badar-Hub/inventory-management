@@ -1,0 +1,53 @@
+{
+  "name": {
+    "label": "Payment Methods",
+    "tooltip": ""
+  },
+  "addPaymentMethodButton": {
+    "label": "Add Payment Method",
+    "tooltip": ""
+  },
+  "dialogHeaderText": {
+    "label": "Add Payment Method"
+  },
+  "paymentMethodDetails": {
+    "label": "Payment Method Details",
+    "tooltip": ""
+  },
+  "selectPaymentType": {
+    "label": "Select Payment Type",
+    "tooltip": ""
+  },
+  "applyOrderCondition": {
+    "label": "Apply Order Condition",
+    "tooltip": ""
+  },
+  "duplicateButton": {
+    "label": "Duplicate",
+    "tooltip": ""
+  },
+  "removeButton": {
+    "label": "Remove",
+    "tooltip": ""
+  },
+  "addAnotherPaymentMethod": {
+    "label": "Add Another Payment Method",
+    "tooltip": ""
+  },
+  "reviewAndAdd": {
+    "label": "Review & Add",
+    "tooltip": ""
+  },
+  "reviewAndUpdate": {
+    "label": "Review & Update",
+    "tooltip": ""
+  },
+  "emptySelectError": {
+    "label": "Please select an option",
+    "tooltip": ""
+  },
+  "createSuccessMsg": "The payment method(s) has successfully been created",
+  "createErrMsg": "Some or all of the payment method(s) failed to be created",
+  "updateSuccessMsg": "The payment method has successfully been updated",
+  "updateErrMsg": "The payment method failed to be updated"
+}

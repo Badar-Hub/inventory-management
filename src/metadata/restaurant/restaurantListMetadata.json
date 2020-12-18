@@ -1,0 +1,14 @@
+{
+  "header": {
+    "title": "Restaurants"
+  },
+  "activityLog": {
+    "tooltip": "Activity Log"
+  },
+  "restaurant": {
+    "createLable": "Create Restaurant"
+  },
+  "actionsLabel": {
+    "selectLabel": "Select"
+  }
+}

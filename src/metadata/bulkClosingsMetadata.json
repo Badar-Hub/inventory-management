@@ -1,0 +1,54 @@
+{
+  "header": {
+    "label": "Brand Bulk Closings"
+  },
+  "closingDate": {
+    "label": "Select Closing Date",
+    "tooltip": "",
+    "mask": "##/##/####"
+  },
+  "closingTime": {
+    "label": "Enter Closing Time",
+    "tooltip": ""
+  },
+  "closingDateTime": {
+    "label": "Closing Date & Time",
+    "tooltip": ""
+  },
+  "resumeNormalDateTime": {
+    "label": "Resume Normal Operating Hours Date & Time",
+    "tooltip": ""
+  },
+  "resumeDate": { "label": "Select Resume Date", "tooltip": "" },
+  "resumeTime": {
+    "label": "Enter Resume Time",
+    "tooltip": ""
+  },
+  "fulfillmentType": {
+    "label": "Fulfillment Type",
+    "tooltip": ""
+  },
+  "togoFulfillment": { "label": "To Go Fulfillment", "tooltip": "" },
+  "cateringFulfillment": {
+    "label": "Catering Fulfillment",
+    "tooltip": ""
+  },
+  "addClosingtoRestaurants": {
+    "label": "Add Closing To Restaurants",
+    "tooltip": ""
+  },
+  "searchSelectRestaurant": {
+    "label": "Search & Select Restaurant(s)",
+    "tooltip": ""
+  },
+  "addclosingBtn": {
+    "label": "Add Closings",
+    "tooltip": ""
+  },
+  "emptySelectError": {
+    "label": "Please select an option",
+    "tooltip": ""
+  },
+  "createSuccessMsg": "Bulk closing created successfully",
+  "createErrMsg": "Error in creating bulk closings"
+}

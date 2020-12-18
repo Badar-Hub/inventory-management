@@ -1,0 +1,8 @@
+{
+  "positive": {
+    "label": "Yes"
+  },
+  "negative": {
+    "label": "No"
+  }
+}

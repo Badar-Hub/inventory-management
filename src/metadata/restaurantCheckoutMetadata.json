@@ -1,0 +1,51 @@
+{
+  "name": {
+    "label": "Checkout"
+  },
+  "allowTips": {
+    "label": "Allow Tips"
+  },
+  "catering": {
+    "label": "Catering"
+  },
+  "curbside": {
+    "label": "Curbside"
+  },
+  "delivery": {
+    "label": "Delivery"
+  },
+  "dineIn": {
+    "label": "Dine In"
+  },
+  "driveThru": {
+    "label": "Drive Thru"
+  },
+  "pickUp": {
+    "label": "Pick Up"
+  },
+  "allowOrderUpdating": {
+    "label": "Allow Order Updating"
+  },
+  "sendCustomerOrderConfirmation": {
+    "label": "Send Customer Order Confirmation"
+  },
+  "sendCancellationEmail": {
+    "label": "Send Cancellation Email"
+  },
+  "showTipSignatureOnRecipt": {
+    "label": "Show Tip Signature On Recipt"
+  },
+  "orderMaxDollarAmount": {
+    "label": "Order Max Dollar Amount",
+    "tooltip": "This is the tooltip of Order max dollar amount"
+  },
+  "checkoutOrderCondition": {
+    "label": "Checkout Order Condition",
+    "tooltip": "This is the tooltip of Checkout order condition"
+  },
+  "updateButton": {
+    "label": "Update"
+  },
+  "updateSuccessMsg": "Checkout Successfully against",
+  "updateErrMsg": "Error in updating checkout settings"
+}

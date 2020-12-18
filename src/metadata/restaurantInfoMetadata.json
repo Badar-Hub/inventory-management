@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "Basic Information"
+  },
+  "name": { "label": "Name", "tooltip": "This is the restaurant's name" },
+  "storeNumber": {
+    "label": "Restaurant Number",
+    "tooltip": "This is the restaurant's number"
+  },
+  "address1": {
+    "label": "Address",
+    "tooltip": "This is the restaurant's address"
+  },
+  "city": { "label": "City", "tooltip": "This is the restaurant's city" },
+  "state": { "label": "State", "tooltip": "This is the restaurant's state" },
+  "zipCode": {
+    "label": "Zip Code",
+    "tooltip": "This is the restaurant's zip code"
+  },
+  "phone": {
+    "label": "Phone",
+    "tooltip": "This is the restaurant's phone",
+    "mask": "phone"
+  },
+  "fax": {
+    "label": "Fax",
+    "tooltip": "This is the restaurant's fax",
+    "mask": "(###) ###-####"
+  },
+  "timeZone": {
+    "label": "Time Zone",
+    "tooltip": "This is the restaurant's time zone"
+  },
+  "geocode": {
+    "label": "Geocode",
+    "tooltip": "This is the restaurant's geocode info"
+  },
+  "latitude": {
+    "label": "Latitude",
+    "tooltip": "This is the restaurant's latitude"
+  },
+  "longitude": {
+    "label": "Longitude",
+    "tooltip": "This is the restaurant's longitude"
+  },
+  "restaurantContact": {
+    "label": "Restaurant Contact",
+    "tooltip": "This is the restaurant's contact info"
+  },
+  "contactName": {
+    "label": "Contact Name",
+    "tooltip": "This is the restaurant's contact name"
+  },
+  "ownershipType": {
+    "label": "Type of Ownership",
+    "tooltip": "This is the restaurant's ownership type"
+  },
+  "contactNumber": {
+    "label": "Contact Number",
+    "tooltip": "This is the restaurant's contact number"
+  },
+  "deleteDialog": {
+    "content": "Are you sure you want to delete this restaurant?",
+    "title": "Warning!",
+    "primaryLabel": "Delete"
+  },
+  "updateSuccessMsg": "The restaurant has successfully been updated",
+  "updateErrMsg": "An unexpected error occured",
+  "deletedSuccess": { "label": "The restaurant has successfully been deleted" },
+  "deletedError": { "label": "An unexpected error occured" },
+  "deleteBtnLabel": "Delete Restaurant?",
+  "updateBtnLabel": "Update"
+}

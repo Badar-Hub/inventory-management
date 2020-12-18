@@ -1,0 +1,46 @@
+{
+    "operatingHours": {
+        "label": "Operating Hours Configurations",
+        "tooltip": ""
+    },
+    "header": {
+        "label": "Operating Hours Configurations",
+        "tooltip": ""
+    },
+    "applyOperatingHours": {
+        "label": "Apply Operating Hours",
+        "tooltip": ""
+    },
+    "editOperatingHours": {
+        "label": "Edit Operating Hours",
+        "tooltip": ""
+    },
+    "toGo": {
+        "label": "To Go Fulfillment",
+        "tooltip": ""
+    },
+    "catering": {
+        "label": "Catering Fulfillment",
+        "tooltip": ""
+    },
+    "detail": {
+        "label": "Operating Hours Detail",
+        "tooltip": ""
+    },
+    "daysTitle": {
+      "label": "Day(s) of the Week",
+      "tooltip": ""
+    },
+    "everyDayContent": "Every Day",
+    "hoursTitle": "Hours",
+    "twentyFourSevenContent": "24x7",
+    "openTitle": "Open",
+    "closeTitle": "Close",
+    "nextDayContent": {
+      "label": "",
+      "tooltip": "This time is on the following day"
+    },
+    "noneContent": "None",
+    "updateSuccessMsg": "The Operating Hours Configuration has successfully been updated",
+    "updateErrMsg": "The Operating Hours Configuration has failed to update"
+}
